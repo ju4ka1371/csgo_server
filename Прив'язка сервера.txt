@@ -1,4 +1,0 @@
-https://steamcommunity.com/dev/managegameservers
-
-Номер програми (наприклад, 440 – це TF2, 730 – CS:GO)
-Нам потрібен саме 730!
